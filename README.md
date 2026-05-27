@@ -577,3 +577,7 @@ Passionate about Artificial Intelligence, Data Science, and Problem Solving
 
 ---
 print ("hello world")
+print ("hello world")
+first print statment in python code 
+python has many libraries 
+like numpy,pandas, matplotlib
